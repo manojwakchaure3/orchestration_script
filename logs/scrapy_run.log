@@ -1,0 +1,328 @@
+2025-07-29 12:32:34 [INFO] \U0001f680 Orchestrator started.
+2025-07-29 12:32:34 [INFO] \U0001f577 Starting Scrapy spider...
+2025-07-29 12:32:35 [ERROR] \u274c Spider failed.
+2025-07-29 12:32:35 [ERROR] 2025-07-29 12:32:35 [scrapy.utils.log] INFO: Scrapy 2.13.3 started (bot: scrapybot)
+2025-07-29 12:32:35 [scrapy.utils.log] INFO: Versions:
+{'lxml': '6.0.0',
+ 'libxml2': '2.11.9',
+ 'cssselect': '1.3.0',
+ 'parsel': '1.10.0',
+ 'w3lib': '2.3.1',
+ 'Twisted': '25.5.0',
+ 'Python': '3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 '
+           '64 bit (AMD64)]',
+ 'pyOpenSSL': '25.1.0 (OpenSSL 3.5.1 1 Jul 2025)',
+ 'cryptography': '45.0.5',
+ 'Platform': 'Windows-11-10.0.26100-SP0'}
+Usage
+=====
+  scrapy runspider [options] <spider_file>
+__main__.py: error: File not found: bankrate_rates_spider.py
+
+
+2025-07-29 12:32:35 [WARNING] \u26a0 Skipping transformation because spider failed.
+2025-07-29 12:32:35 [ERROR] \u274c Pipeline failed.
+2025-07-29 12:39:44 [INFO] \U0001f680 Orchestrator started.
+2025-07-29 12:39:44 [INFO] \U0001f577 Starting Scrapy spider...
+2025-07-29 12:39:46 [ERROR] \u274c Spider failed.
+2025-07-29 12:39:46 [ERROR] 2025-07-29 12:39:46 [scrapy.utils.log] INFO: Scrapy 2.13.3 started (bot: scrapybot)
+2025-07-29 12:39:46 [scrapy.utils.log] INFO: Versions:
+{'lxml': '6.0.0',
+ 'libxml2': '2.11.9',
+ 'cssselect': '1.3.0',
+ 'parsel': '1.10.0',
+ 'w3lib': '2.3.1',
+ 'Twisted': '25.5.0',
+ 'Python': '3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 '
+           '64 bit (AMD64)]',
+ 'pyOpenSSL': '25.1.0 (OpenSSL 3.5.1 1 Jul 2025)',
+ 'cryptography': '45.0.5',
+ 'Platform': 'Windows-11-10.0.26100-SP0'}
+Usage
+=====
+  scrapy runspider [options] <spider_file>
+__main__.py: error: File not found: bankrate_rates_spider.py
+
+
+2025-07-29 12:39:46 [WARNING] \u26a0 Skipping transformation because spider failed.
+2025-07-29 12:39:46 [ERROR] \u274c Pipeline failed.
+2025-07-29 12:39:50 [INFO] \U0001f680 Orchestrator started.
+2025-07-29 12:39:50 [INFO] \U0001f577 Starting Scrapy spider...
+2025-07-29 12:39:50 [ERROR] \u274c Spider failed.
+2025-07-29 12:39:50 [ERROR] 2025-07-29 12:39:50 [scrapy.utils.log] INFO: Scrapy 2.13.3 started (bot: scrapybot)
+2025-07-29 12:39:50 [scrapy.utils.log] INFO: Versions:
+{'lxml': '6.0.0',
+ 'libxml2': '2.11.9',
+ 'cssselect': '1.3.0',
+ 'parsel': '1.10.0',
+ 'w3lib': '2.3.1',
+ 'Twisted': '25.5.0',
+ 'Python': '3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 '
+           '64 bit (AMD64)]',
+ 'pyOpenSSL': '25.1.0 (OpenSSL 3.5.1 1 Jul 2025)',
+ 'cryptography': '45.0.5',
+ 'Platform': 'Windows-11-10.0.26100-SP0'}
+Usage
+=====
+  scrapy runspider [options] <spider_file>
+__main__.py: error: File not found: bankrate_rates_spider.py
+
+
+2025-07-29 12:39:50 [WARNING] \u26a0 Skipping transformation because spider failed.
+2025-07-29 12:39:50 [ERROR] \u274c Pipeline failed.
+2025-07-29 12:40:00 [INFO] \U0001f680 Orchestrator started.
+2025-07-29 12:40:00 [INFO] \U0001f577 Starting Scrapy spider...
+2025-07-29 12:40:02 [ERROR] \u274c Spider failed.
+2025-07-29 12:40:02 [ERROR] 2025-07-29 12:40:01 [scrapy.utils.log] INFO: Scrapy 2.13.3 started (bot: scrapybot)
+2025-07-29 12:40:02 [scrapy.utils.log] INFO: Versions:
+{'lxml': '6.0.0',
+ 'libxml2': '2.11.9',
+ 'cssselect': '1.3.0',
+ 'parsel': '1.10.0',
+ 'w3lib': '2.3.1',
+ 'Twisted': '25.5.0',
+ 'Python': '3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 '
+           '64 bit (AMD64)]',
+ 'pyOpenSSL': '25.1.0 (OpenSSL 3.5.1 1 Jul 2025)',
+ 'cryptography': '45.0.5',
+ 'Platform': 'Windows-11-10.0.26100-SP0'}
+Usage
+=====
+  scrapy runspider [options] <spider_file>
+__main__.py: error: File not found: c:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\bankrate_rates_spider.py
+
+
+2025-07-29 12:40:02 [WARNING] \u26a0 Skipping transformation because spider failed.
+2025-07-29 12:40:02 [ERROR] \u274c Pipeline failed.
+2025-07-29 12:51:46 [INFO] \U0001f680 Orchestrator started.
+2025-07-29 12:51:46 [INFO] \U0001f577 Starting Scrapy spider...
+2025-07-29 12:51:47 [ERROR] \u274c Spider failed.
+2025-07-29 12:51:47 [ERROR] 2025-07-29 12:51:47 [scrapy.utils.log] INFO: Scrapy 2.13.3 started (bot: loanrates)
+2025-07-29 12:51:47 [scrapy.utils.log] INFO: Versions:
+{'lxml': '6.0.0',
+ 'libxml2': '2.11.9',
+ 'cssselect': '1.3.0',
+ 'parsel': '1.10.0',
+ 'w3lib': '2.3.1',
+ 'Twisted': '25.5.0',
+ 'Python': '3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 '
+           '64 bit (AMD64)]',
+ 'pyOpenSSL': '25.1.0 (OpenSSL 3.5.1 1 Jul 2025)',
+ 'cryptography': '45.0.5',
+ 'Platform': 'Windows-11-10.0.26100-SP0'}
+Usage
+=====
+  scrapy runspider [options] <spider_file>
+__main__.py: error: File not found: C:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\bankrate_rates_spider.py
+
+
+2025-07-29 12:51:47 [WARNING] \u26a0 Skipping transformation because spider failed.
+2025-07-29 12:51:47 [ERROR] \u274c Pipeline failed.
+2025-07-29 12:52:02 [INFO] \U0001f680 Orchestrator started.
+2025-07-29 12:52:02 [INFO] \U0001f577 Starting Scrapy spider...
+2025-07-29 12:52:03 [ERROR] \u274c Spider failed.
+2025-07-29 12:52:03 [ERROR] 2025-07-29 12:52:02 [scrapy.utils.log] INFO: Scrapy 2.13.3 started (bot: loanrates)
+2025-07-29 12:52:03 [scrapy.utils.log] INFO: Versions:
+{'lxml': '6.0.0',
+ 'libxml2': '2.11.9',
+ 'cssselect': '1.3.0',
+ 'parsel': '1.10.0',
+ 'w3lib': '2.3.1',
+ 'Twisted': '25.5.0',
+ 'Python': '3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 '
+           '64 bit (AMD64)]',
+ 'pyOpenSSL': '25.1.0 (OpenSSL 3.5.1 1 Jul 2025)',
+ 'cryptography': '45.0.5',
+ 'Platform': 'Windows-11-10.0.26100-SP0'}
+Usage
+=====
+  scrapy runspider [options] <spider_file>
+__main__.py: error: File not found: C:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\bankrate_rates_spider.py
+
+
+2025-07-29 12:52:03 [WARNING] \u26a0 Skipping transformation because spider failed.
+2025-07-29 12:52:03 [ERROR] \u274c Pipeline failed.
+2025-07-29 12:52:15 [INFO] \U0001f680 Orchestrator started.
+2025-07-29 12:52:15 [INFO] \U0001f577 Starting Scrapy spider...
+2025-07-29 12:52:17 [ERROR] \u274c Spider failed.
+2025-07-29 12:52:17 [ERROR] 2025-07-29 12:52:16 [scrapy.utils.log] INFO: Scrapy 2.13.3 started (bot: scrapybot)
+2025-07-29 12:52:16 [scrapy.utils.log] INFO: Versions:
+{'lxml': '6.0.0',
+ 'libxml2': '2.11.9',
+ 'cssselect': '1.3.0',
+ 'parsel': '1.10.0',
+ 'w3lib': '2.3.1',
+ 'Twisted': '25.5.0',
+ 'Python': '3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 '
+           '64 bit (AMD64)]',
+ 'pyOpenSSL': '25.1.0 (OpenSSL 3.5.1 1 Jul 2025)',
+ 'cryptography': '45.0.5',
+ 'Platform': 'Windows-11-10.0.26100-SP0'}
+Usage
+=====
+  scrapy runspider [options] <spider_file>
+__main__.py: error: File not found: c:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\bankrate_rates_spider.py
+
+
+2025-07-29 12:52:17 [WARNING] \u26a0 Skipping transformation because spider failed.
+2025-07-29 12:52:17 [ERROR] \u274c Pipeline failed.
+2025-07-29 12:59:34 [INFO] \U0001f680 Orchestrator started.
+2025-07-29 12:59:34 [INFO] \U0001f577 Starting Scrapy spider...
+2025-07-29 12:59:35 [ERROR] \u274c Spider failed.
+2025-07-29 12:59:35 [ERROR] 2025-07-29 12:59:35 [scrapy.utils.log] INFO: Scrapy 2.13.3 started (bot: scrapybot)
+2025-07-29 12:59:35 [scrapy.utils.log] INFO: Versions:
+{'lxml': '6.0.0',
+ 'libxml2': '2.11.9',
+ 'cssselect': '1.3.0',
+ 'parsel': '1.10.0',
+ 'w3lib': '2.3.1',
+ 'Twisted': '25.5.0',
+ 'Python': '3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 '
+           '64 bit (AMD64)]',
+ 'pyOpenSSL': '25.1.0 (OpenSSL 3.5.1 1 Jul 2025)',
+ 'cryptography': '45.0.5',
+ 'Platform': 'Windows-11-10.0.26100-SP0'}
+Usage
+=====
+  scrapy runspider [options] <spider_file>
+__main__.py: error: File not found: c:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\bankrate_rates_spider.py
+
+
+2025-07-29 12:59:35 [WARNING] \u26a0 Skipping transformation because spider failed.
+2025-07-29 12:59:35 [ERROR] \u274c Pipeline failed.
+2025-07-29 12:59:41 [INFO] \U0001f680 Orchestrator started.
+2025-07-29 12:59:41 [INFO] \U0001f577 Starting Scrapy spider...
+2025-07-29 12:59:42 [ERROR] \u274c Spider failed.
+2025-07-29 12:59:42 [ERROR] 2025-07-29 12:59:42 [scrapy.utils.log] INFO: Scrapy 2.13.3 started (bot: scrapybot)
+2025-07-29 12:59:42 [scrapy.utils.log] INFO: Versions:
+{'lxml': '6.0.0',
+ 'libxml2': '2.11.9',
+ 'cssselect': '1.3.0',
+ 'parsel': '1.10.0',
+ 'w3lib': '2.3.1',
+ 'Twisted': '25.5.0',
+ 'Python': '3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 '
+           '64 bit (AMD64)]',
+ 'pyOpenSSL': '25.1.0 (OpenSSL 3.5.1 1 Jul 2025)',
+ 'cryptography': '45.0.5',
+ 'Platform': 'Windows-11-10.0.26100-SP0'}
+Usage
+=====
+  scrapy runspider [options] <spider_file>
+__main__.py: error: File not found: C:\Users\Wakch\Downloads\loanrates_new\loanrates\bankrate_rates_spider.py
+
+
+2025-07-29 12:59:42 [WARNING] \u26a0 Skipping transformation because spider failed.
+2025-07-29 12:59:42 [ERROR] \u274c Pipeline failed.
+2025-07-29 14:27:28 [INFO] \U0001f680 Orchestrator started.
+2025-07-29 14:27:28 [INFO] \U0001f577 Starting Scrapy spider...
+2025-07-29 14:27:30 [ERROR] \u274c Spider failed.
+2025-07-29 14:27:30 [ERROR] 2025-07-29 14:27:29 [scrapy.utils.log] INFO: Scrapy 2.13.3 started (bot: loanrates)
+2025-07-29 14:27:30 [scrapy.utils.log] INFO: Versions:
+{'lxml': '6.0.0',
+ 'libxml2': '2.11.9',
+ 'cssselect': '1.3.0',
+ 'parsel': '1.10.0',
+ 'w3lib': '2.3.1',
+ 'Twisted': '25.5.0',
+ 'Python': '3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 '
+           '64 bit (AMD64)]',
+ 'pyOpenSSL': '25.1.0 (OpenSSL 3.5.1 1 Jul 2025)',
+ 'cryptography': '45.0.5',
+ 'Platform': 'Windows-11-10.0.26100-SP0'}
+Usage
+=====
+  scrapy runspider [options] <spider_file>
+__main__.py: error: File not found: C:\Users\Wakch\Downloads\loanrates_new\loanrates\bankrate_rates_spider.py
+
+
+2025-07-29 14:27:30 [WARNING] \u26a0 Skipping transformation because spider failed.
+2025-07-29 14:27:30 [ERROR] \u274c Pipeline failed.
+2025-07-29 14:35:38 [INFO] \U0001f680 Orchestrator started.
+2025-07-29 14:35:38 [INFO] \U0001f577 Starting Scrapy spider...
+2025-07-29 14:35:38 [INFO] Using spider file: C:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\spiders\bankrate_rates_spider.py
+2025-07-29 14:35:46 [INFO] \u2705 Spider completed successfully.
+2025-07-29 14:35:46 [INFO] \U0001f4e6 Running transformation script...
+2025-07-29 14:35:46 [INFO] Using transformer script: C:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\spiders\append_json_to_csv.py
+2025-07-29 14:35:47 [ERROR] \u274c Transformation script failed.
+2025-07-29 14:35:47 [ERROR] Traceback (most recent call last):
+  File "C:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\spiders\append_json_to_csv.py", line 35, in <module>
+    main()
+  File "C:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\spiders\append_json_to_csv.py", line 29, in main
+    print(f"\u2705 Appended {len(new)} rows to CSV")
+  File "C:\Users\Wakch\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+
+2025-07-29 14:35:47 [ERROR] \u274c Pipeline failed.
+2025-07-29 14:38:01 [INFO] \U0001f680 Orchestrator started.
+2025-07-29 14:38:01 [INFO] \U0001f577 Starting Scrapy spider...
+2025-07-29 14:38:01 [INFO] Using spider file: c:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\spiders\bankrate_rates_spider.py
+2025-07-29 14:38:06 [INFO] \u2705 Spider completed successfully.
+2025-07-29 14:38:06 [INFO] \U0001f4e6 Running transformation script...
+2025-07-29 14:38:06 [INFO] Using transformer script: c:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\spiders\append_json_to_csv.py
+2025-07-29 14:38:06 [INFO] \u2705 Transformation completed successfully.
+2025-07-29 14:38:06 [INFO] \u2705 Full pipeline succeeded.
+2025-07-29 14:41:45 [INFO] \U0001f680 Orchestrator started.
+2025-07-29 14:41:45 [INFO] \U0001f577 Starting Scrapy spider...
+2025-07-29 14:41:45 [INFO] Using spider file: c:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\spiders\bankrate_rates_spider.py
+2025-07-29 14:41:50 [INFO] \u2705 Spider completed successfully.
+2025-07-29 14:41:50 [INFO] \U0001f4e6 Running transformation script...
+2025-07-29 14:41:50 [INFO] Using transformer script: c:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\spiders\append_json_to_csv.py
+2025-07-29 14:41:50 [ERROR] \u274c Transformation script failed.
+2025-07-29 14:41:50 [ERROR] Traceback (most recent call last):
+  File "c:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\spiders\append_json_to_csv.py", line 35, in <module>
+    main()
+  File "c:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\spiders\append_json_to_csv.py", line 29, in main
+    print(f"\u2705 Appended {len(new)} rows to CSV")
+  File "C:\Users\Wakch\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+
+2025-07-29 14:41:50 [ERROR] \u274c Pipeline failed.
+2025-07-29 14:43:30 [INFO] \U0001f680 Orchestrator started.
+2025-07-29 14:43:30 [INFO] \U0001f577 Starting Scrapy spider...
+2025-07-29 14:43:30 [INFO] Using spider file: c:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\spiders\bankrate_rates_spider.py
+2025-07-29 14:43:37 [INFO] \u2705 Spider completed successfully.
+2025-07-29 14:43:37 [INFO] \U0001f4e6 Running transformation script...
+2025-07-29 14:43:37 [INFO] Using transformer script: c:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\spiders\append_json_to_csv.py
+2025-07-29 14:43:37 [ERROR] \u274c Transformation script failed.
+2025-07-29 14:43:37 [ERROR] Traceback (most recent call last):
+  File "c:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\spiders\append_json_to_csv.py", line 35, in <module>
+    main()
+  File "c:\Users\Wakch\Downloads\loanrates_new\loanrates_new\loanrates\loanrates\spiders\append_json_to_csv.py", line 29, in main
+    print(f"\u2705 Appended {len(new)} rows to CSV")
+  File "C:\Users\Wakch\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+
+2025-07-29 14:43:37 [ERROR] \u274c Pipeline failed.
+2025-07-30 10:22:22 [INFO] \U0001f680 Orchestrator started.
+2025-07-30 10:22:22 [INFO] \U0001f577 Starting Scrapy spider...
+2025-07-30 10:22:22 [INFO] Using spider file: c:\Users\Wakch\OneDrive\Desktop\stoic & salmander\loanrates_new\loanrates_new\loanrates\loanrates\spiders\bankrate_rates_spider.py
+2025-07-30 10:22:26 [INFO] \u2705 Spider completed successfully.
+2025-07-30 10:22:26 [INFO] \U0001f4e6 Running transformation script...
+2025-07-30 10:22:26 [INFO] Using transformer script: c:\Users\Wakch\OneDrive\Desktop\stoic & salmander\loanrates_new\loanrates_new\loanrates\loanrates\spiders\append_json_to_csv.py
+2025-07-30 10:22:26 [ERROR] \u274c Transformation script failed.
+2025-07-30 10:22:26 [ERROR] Traceback (most recent call last):
+  File "c:\Users\Wakch\OneDrive\Desktop\stoic & salmander\loanrates_new\loanrates_new\loanrates\loanrates\spiders\append_json_to_csv.py", line 35, in <module>
+    main()
+  File "c:\Users\Wakch\OneDrive\Desktop\stoic & salmander\loanrates_new\loanrates_new\loanrates\loanrates\spiders\append_json_to_csv.py", line 29, in main
+    print(f"\u2705 Appended {len(new)} rows to CSV")
+  File "C:\Users\Wakch\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+
+2025-07-30 10:22:26 [ERROR] \u274c Pipeline failed.
+2025-07-30 10:32:48 [INFO] \U0001f680 Orchestrator started.
+2025-07-30 10:32:48 [INFO] \U0001f577 Starting Scrapy spider...
+2025-07-30 10:32:48 [INFO] Using spider file: c:\Users\Wakch\OneDrive\Desktop\stoic & salmander\loanrates_new\loanrates_new\loanrates\loanrates\spiders\bankrate_rates_spider.py
+2025-07-30 10:32:52 [INFO] \u2705 Spider completed successfully.
+2025-07-30 10:32:52 [INFO] \U0001f4e6 Running transformation script...
+2025-07-30 10:32:52 [INFO] Using transformer script: c:\Users\Wakch\OneDrive\Desktop\stoic & salmander\loanrates_new\loanrates_new\loanrates\loanrates\spiders\append_json_to_csv.py
+2025-07-30 10:32:52 [INFO] \u2705 Transformation completed successfully.
+2025-07-30 10:32:52 [INFO] \u2705 Full pipeline succeeded.
