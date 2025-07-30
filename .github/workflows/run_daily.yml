@@ -1,0 +1,27 @@
+name: Daily Orchestration Run
+
+on:
+  schedule:
+    - cron: '15 18 * * *'  # Runs daily at 11:45 PM IST (6:15 PM UTC)
+  workflow_dispatch:
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install scrapy
+
+      - name: Run Orchestration Script
+        run: python orchestration_script.py
